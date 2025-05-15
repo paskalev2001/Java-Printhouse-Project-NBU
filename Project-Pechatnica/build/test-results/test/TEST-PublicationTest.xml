@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PublicationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-01T15:43:44" hostname="DESKTOP-DNC9A13" time="0.038">
+  <properties/>
+  <testcase name="testGetters()" classname="PublicationTest" time="0.018"/>
+  <testcase name="testSetPricePerCopy()" classname="PublicationTest" time="0.002"/>
+  <testcase name="testCalculateTotalIncome()" classname="PublicationTest" time="0.001"/>
+  <testcase name="testToStringContainsExpectedData()" classname="PublicationTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
